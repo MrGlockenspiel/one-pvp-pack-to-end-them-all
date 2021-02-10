@@ -8,10 +8,14 @@
 - [ ] Purposefully ugly ore borders
 - [ ] Never Gonna Give You Up may randomly play
 - [ ] Really high resolution but shitty looking armor
-- [ ] Diamond armor needs to be red, obviously
+- [ ] Diamond armor needs to be red, obviously (rgb 255, 0, 0)
 - [ ] Random resolutions for every texture ranging from 24-48x
 - [ ] More cubes per cube model
 - [ ] Short swords but the held model is moved to block your vision even more than vanilla
 - [ ] Tilt the screen by 5 degrees for absolutely no reason (unfortunately will only work on fabulous graphics)
 - [ ] Mixels becasue yes
 - [ ] "Optimized" models for lanterns/torches/stuff (I sure do love 3 cube lanterns)
+- [ ] Stolen Assets
+- [ ] Must be for 1.8
+- [ ] Gradients everywhere
+- [ ] Billions of tags
