@@ -19,3 +19,4 @@
 - [ ] Must be for 1.8
 - [ ] Gradients everywhere
 - [ ] Billions of tags
+- [ ] Every transparent texture must have a white background
