@@ -2,21 +2,21 @@
 
 - [ ] RGB slimes
 - [ ] "Transparent" inventory but its actually just the transparency checkerboard pattern
-- [ ] Potions and food make extreme amounts of particles
+- [ ] Potions and food must make extreme amounts of particles
 - [ ] Rarely turn player/armor models invisible
 - [ ] Overuse emmisives
-- [ ] Purposefully ugly ore borders
+- [X] Purposefully ugly ore borders and ore emmisives
 - [ ] Never Gonna Give You Up may randomly play
-- [ ] Really high resolution but shitty looking armor
-- [ ] Diamond armor needs to be red, obviously (rgb 255, 0, 0)
-- [ ] Random resolutions for every texture ranging from 24-48x
+- [X] Really high resolution but shitty looking armor
+- [X] Diamond armor needs to be red, obviously (Like, FULL red) (As in RGB 255, 0, 0) (Or hex #FF0000)
+- [ ] Random resolutions for every texture ranging from 12-30x (from 30x and on, we reach the point of dimishing pain, can't have that)
 - [ ] More cubes per cube model
 - [ ] Short swords but the held model is moved to block your vision even more than vanilla
 - [ ] Tilt the screen by 5 degrees for absolutely no reason (unfortunately will only work on fabulous graphics)
 - [ ] Mixels becasue yes
 - [ ] "Optimized" models for lanterns/torches/stuff (I sure do love 3 cube lanterns)
-- [ ] Stolen Assets
-- [ ] Must be for 1.8
+- [ ] ~~Stolen Assets~~ Nonono, we can't do that unfortunately
+- [ ] Must be for 1.8 (and 1.16, I really, really want to make that fabulous shader)
 - [ ] Gradients everywhere
 - [ ] Billions of tags
-- [ ] Every transparent texture must have a white background
+- [ ] Every transparent texture must have a white background (I'll get to work automating that)
